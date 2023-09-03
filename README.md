@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="800" src="https://i.pinimg.com/originals/54/d5/32/54d532f6d7145311ad28f08cf71ff7fb.gif%22%3E>
+![red-car](https://i.pinimg.com/originals/54/d5/32/54d532f6d7145311ad28f08cf71ff7fb.gif)
 # 💫 About Me:
 🔭 I’m currently working on PartnerHelper<br>🌱 I’m currently learning React Native
 
@@ -15,9 +15,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Napstyyy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Napstyyy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Napstyyy&icon=7&color=6)](https://visitcount.itsvg.in)
