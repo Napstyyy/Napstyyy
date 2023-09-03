@@ -1,4 +1,7 @@
----![red-car](https://i.pinimg.com/originals/54/d5/32/54d532f6d7145311ad28f08cf71ff7fb.gif)
+<img alt="Coding" align="center" width="100%" src="https://i.pinimg.com/originals/d0/58/3b/d0583b414f99249e7b4e74066f35af3f.gif" >
+
+---
+
 # 💫 About Me:
 🔭 I’m currently working on PartnerHelper<br>🌱 I’m currently learning React Native
 
